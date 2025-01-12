@@ -1,0 +1,63 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPa/69KW4qn+XM/xhlrGRcJ",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Silky30-07/python-assignment-1/blob/main/python%20basic%20assignment%201\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "4lN-fEr-GJtM"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "otzKthK-GNu4"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "name: silky chauhan\n",
+        "\n",
+        "assignemnt: python basics\n",
+        "\n",
+        "email:silkychauhan@gmail.com\n",
+        "\n",
+        "github link:https://github.com/Silky30-07/python-assignment-1/blob/04d60ff7a2eddf037cde3ae0ea47f742f3f2e4e4/python_assignment_1.ipynb"
+      ],
+      "metadata": {
+        "id": "GvJHrBmvGKos"
+      }
+    }
+  ]
+}
